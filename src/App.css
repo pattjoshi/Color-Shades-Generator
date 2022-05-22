@@ -56,7 +56,7 @@
   }
   100% {
     opacity: 1;
-    opacity: 16px;
+    font-size: 1rem;
   }
 }
 
@@ -72,6 +72,8 @@
   border-radius: 27px;
   text-align: center;
 }
+
+/* scroll */
 
 @media only screen and (min-width: 769px) and (max-width: 1281px) {
   /* for 10 inches tablet screens */
