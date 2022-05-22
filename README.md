@@ -7,6 +7,10 @@
 <img width="959" alt="image" src="https://user-images.githubusercontent.com/78966839/169695180-a008ba2a-ed7c-4351-b8e1-e5ebd4153813.png">
 
 
+
+[Demo](https://generatorshades.netlify.app)
+
+
 ### How To Use :-
 
 ####    Step 1 :- 
@@ -25,6 +29,6 @@ yarn start
 
  yarn run build
 
- [I Learn from Hear](https://www.youtube.com/watch?v=eJyZ7k6lWfE&t=150s)
+ [I Learn from Hear](https://www.youtube.com/watch?v=BdwYvnK2UDQ)
  
  🙏 If you find this repo helpful then don't forget to give a star ❇️ to this repository. :)
