@@ -4,5 +4,5 @@
 
 # Image:-
 
-<img width="943" alt="image" src="https://user-images.githubusercontent.com/78966839/169692975-55d3b1a3-7259-43c8-a85c-6884c0a27d22.png">
+<img width="959" alt="image" src="https://user-images.githubusercontent.com/78966839/169695180-a008ba2a-ed7c-4351-b8e1-e5ebd4153813.png">
 
